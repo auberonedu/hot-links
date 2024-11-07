@@ -17,3 +17,5 @@ When adding a new link:
 
 ## Making a pull request
 Please title your pull request as `CATEGORY: Name of link`. For example, `RECIPES: Crustless Quiche with Spinach and Mushrooms`.
+
+Please include ONLY ONE LINK per pull request! Pull requests containing multiple links will be closed!
