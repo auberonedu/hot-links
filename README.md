@@ -4,6 +4,7 @@ A collection of fun and useful links!
 ## Categories
 - [Art](pages/art.md)
 - [Coding](pages/coding.md)
+- [Random-Generator](pages/random.md)
 - [Recipes](pages/recipes.md)
 
 ## Adding a Link
