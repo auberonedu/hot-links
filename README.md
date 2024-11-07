@@ -2,7 +2,9 @@
 A collection of fun and useful links!
 
 ## Categories
-- Learning to Code
-- Recipes
-- Art and Drawing Tutorials
-- Crafts and Projects
+- [Art](pages/art.md)
+- [Coding](pages/coding.md)
+- [Recipes](pages/recipes.md)
+
+## Adding a Link
+Please see our [contributing doc](CONTRIBUTING.md) for information on how to add a link.
