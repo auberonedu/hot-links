@@ -1,5 +1,11 @@
 # Recipes
 
+## [Crispy Air Fryer Potatoes](https://natashaskitchen.com/air-fryer-potatoes/)
+
+[Archived Link](https://web.archive.org/web/20240413055827/https://natashaskitchen.com/air-fryer-potatoes/)
+
+Fast air fryer potato recipe!
+
 ## [Crustless Quiche with Spinach and Mushrooms](https://www.themediterraneandish.com/mushroom-spinach-crustless-quiche/)
 
 [Archived Link](https://web.archive.org/web/20240802010738/https://www.themediterraneandish.com/mushroom-spinach-crustless-quiche/)
