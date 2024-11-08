@@ -5,5 +5,3 @@
 
 A great easy vegetarian recipe that's a real crowd-pleaser!
 
-## [Best Homemade Alfredo Sauce](https://thesaltymarshmallow.com/best-homemade-alfredo-sauce/)
-[Archived Link](https://web.archive.org/web/20241108001645/https://thesaltymarshmallow.com/best-homemade-alfredo-sauce/)
