@@ -9,3 +9,8 @@ A great easy vegetarian recipe that's a real crowd-pleaser!
 [Archived Link](https://web.archive.org/web/20240527195757/https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
 
 An easy recipe to make delicious Potato Puncakes, Draniki!
+
+## [Napoleon Cake](https://www.kingarthurbaking.com/recipes/napoleons-recipe)
+[Archived Link](https://web.archive.org/web/20240414114826/https://www.kingarthurbaking.com/recipes/napoleons-recipe)
+
+A delicious recipe to make your family happy with, Napoleon Cake!
