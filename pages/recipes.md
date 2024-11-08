@@ -9,3 +9,8 @@ A great easy vegetarian recipe that's a real crowd-pleaser!
 [Archived Link](https://web.archive.org/web/20240527195757/https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
 
 An easy recipe to make delicious Potato Puncakes, Draniki!
+
+## [Tandoori Chicken Naan Wraps)](https://moribyan.com/tandoori-chicken-naan-wraps/)
+[Archived Link](https://web.archive.org/web/20240414183427/https://moribyan.com/tandoori-chicken-naan-wraps/)
+
+An easy recipe to make a wrap in toasted naan and fresh veggies and chutney you could make!
