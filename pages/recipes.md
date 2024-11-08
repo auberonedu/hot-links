@@ -9,3 +9,8 @@ A great easy vegetarian recipe that's a real crowd-pleaser!
 [Archived Link](https://web.archive.org/web/20240527195757/https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
 
 An easy recipe to make delicious Potato Puncakes, Draniki!
+
+## [How to make Sambosas](https://www.allrecipes.com/recipe/53603/sambusa/)
+[Archived Link](https://web.archive.org/web/20240527195757/https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
+
+An nice Somalian cuisine that will make people say "wow how did you make this" 
