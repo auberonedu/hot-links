@@ -5,6 +5,11 @@
 
 A great easy vegetarian recipe that's a real crowd-pleaser!
 
+## [Draniki (Fluffy Potato Puncakes)](https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
+[Archived Link](https://web.archive.org/web/20240527195757/https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
+
+An easy recipe to make delicious Potato Puncakes, Draniki!
+
 ## [How to Make Crepes](https://sallysbakingaddiction.com/make-crepes/)
 [Archived Link](http://web.archive.org/web/20241007054845/https://sallysbakingaddiction.com/make-crepes/)
 
