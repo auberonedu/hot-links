@@ -11,3 +11,9 @@ A great easy vegetarian recipe that's a real crowd-pleaser!
 [Archived Link](https://web.archive.org/web/20241002164454/https://www.platingsandpairings.com/din-tai-fung-cucumber-salad-recipe/)
 
 A fast and easy recipe for DTF Cucumber Salad!
+
+## [Draniki (Fluffy Potato Puncakes)](https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
+
+[Archived Link](https://web.archive.org/web/20240527195757/https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
+
+An easy recipe to make delicious Potato Puncakes, Draniki!
