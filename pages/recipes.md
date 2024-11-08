@@ -9,3 +9,8 @@ A great easy vegetarian recipe that's a real crowd-pleaser!
 [Archived Link](https://web.archive.org/web/20240527195757/https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
 
 An easy recipe to make delicious Potato Puncakes, Draniki!
+
+## [Mississippi Mud Brownies](https://tastesbetterfromscratch.com/mississippi-mud-brownies/)
+[Archived Link](https://web.archive.org/web/20240227143637/https://tastesbetterfromscratch.com/mississippi-mud-brownies/)
+
+My grandmas mississippi mud recipe is a lot different. This one has marshmallows?
