@@ -9,3 +9,8 @@ A small visual tutorial on how to draw a rat.
 [Archived Link](https://web.archive.org/web/20241107223146/https://soundcloud.com/ceejay-31/technohouse-mix?si=99f71c4d38bf40df8b41bb5129f3aa08)
 
 A Tech/House mix I enjoy made by my cousin CJ!
+
+## [Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man)
+[Archived Link](https://web.archive.org/web/20241002150813/https://en.wikipedia.org/wiki/Vitruvian_Man)
+
+Vitruvian Man art and what it means.
