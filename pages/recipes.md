@@ -9,3 +9,6 @@ A great easy vegetarian recipe that's a real crowd-pleaser!
 [Archived Link](https://web.archive.org/web/20240527195757/https://natashaskitchen.com/meat-stuffed-potato-pancakes/)
 
 An easy recipe to make delicious Potato Puncakes, Draniki!
+
+## [Burrito Casserole] (https://writtenreality.com/baked-burrito-casserole-recipe/)
+[Archived Link] (https://web.archive.org/web/20241110012716/https://writtenreality.com/baked-burrito-casserole-recipe/)
