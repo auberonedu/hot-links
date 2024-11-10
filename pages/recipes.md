@@ -1,6 +1,6 @@
 # Recipes
 
-## [Burrito Casserole] (https://writtenreality.com/baked-burrito-casserole-recipe/)
+## [Burrito Casserole](https://writtenreality.com/baked-burrito-casserole-recipe/)
 [Archived Link] (https://web.archive.org/web/20241110012716/https://writtenreality.com/baked-burrito-casserole-recipe/)
 
 A filling recipe for when you want burritos, but not the mess.
