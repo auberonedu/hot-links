@@ -19,3 +19,8 @@ An easy recipe to make delicious Potato Puncakes, Draniki!
 [Archived Link](https://web.archive.org/web/20240227143637/https://tastesbetterfromscratch.com/mississippi-mud-brownies/)
 
 My grandmas mississippi mud recipe is a lot different. This one has marshmallows?
+
+## [Red Borscht Soup](https://www.allrecipes.com/recipe/84450/ukrainian-red-borscht-soup/)
+[Archived Link](https://web.archive.org/web/20240917104831/https://www.allrecipes.com/recipe/84450/ukrainian-red-borscht-soup/)
+
+A soup with beet which serves as the main ingredient of the dish.
