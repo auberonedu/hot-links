@@ -15,6 +15,11 @@ A great easy vegetarian recipe that's a real crowd-pleaser!
 
 An easy recipe to make delicious Potato Puncakes, Draniki!
 
+## [How to Make Crepes](https://sallysbakingaddiction.com/make-crepes/)
+[Archived Link](http://web.archive.org/web/20241007054845/https://sallysbakingaddiction.com/make-crepes/)
+
+An easy recipe on creating homdmade crepes.
+
 ## [Mississippi Mud Brownies](https://tastesbetterfromscratch.com/mississippi-mud-brownies/)
 [Archived Link](https://web.archive.org/web/20240227143637/https://tastesbetterfromscratch.com/mississippi-mud-brownies/)
 
