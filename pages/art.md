@@ -10,6 +10,12 @@ A small visual tutorial on how to draw a cat.
 
 A small visual tutorial on how to draw a rat.
 
+
+## [How to Draw a Tree](https://www.happyfamilyart.com/art-lessons/learn-to-draw/how-to-draw-a-tree/)
+[Archived Link](https://web.archive.org/web/20240118085529/https://www.happyfamilyart.com/art-lessons/learn-to-draw/how-to-draw-a-tree/)
+
+A step-by-step guide on how to draw a simple Tree.
+=======
 ## [Mona Lisa Wikipedia](https://en.wikipedia.org/wiki/Mona_Lisa)
 [Archived Link](https://web.archive.org/web/20240804032632/https://en.wikipedia.org/wiki/Mona_Lisa)
 
@@ -24,3 +30,4 @@ A Tech/House mix I enjoy made by my cousin CJ!
 [Archived Link](https://web.archive.org/web/20240229180044/https://www.sakuraofamerica.com/product/koi-water-color-field-sketch-kit/)
 
 A travel watercolor kit that I enjoy using.
+
