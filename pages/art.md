@@ -24,3 +24,8 @@ A Tech/House mix I enjoy made by my cousin CJ!
 [Archived Link](https://web.archive.org/web/20240229180044/https://www.sakuraofamerica.com/product/koi-water-color-field-sketch-kit/)
 
 A travel watercolor kit that I enjoy using.
+
+## [How To Draw a Rose](https://colormadehappy.com/how-to-draw-a-rose/)
+[Archived Link](https://web.archive.org/web/20240621175152/https://colormadehappy.com/how-to-draw-a-rose/)
+
+A simple tutorial on how to draw a rose! 
