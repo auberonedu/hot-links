@@ -5,6 +5,11 @@
 
 A browser game for learning and visualizing git commands.
 
+## [List of Markup Languages](https://en.wikipedia.org/wiki/List_of_markup_languages)
+[Archive Link](https://web.archive.org/web/20240916005227/https://en.wikipedia.org/wiki/List_of_markup_languages)
+
+A list of markup languages on wikipedia.
+
 ## [Scratch](https://scratch.mit.edu/)
 [Archived Link](https://web.archive.org/web/20240107012925/https://scratch.mit.edu/)
 
