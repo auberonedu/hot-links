@@ -19,3 +19,8 @@ An easy recipe to make delicious Potato Puncakes, Draniki!
 [Archived Link](https://web.archive.org/web/20240227143637/https://tastesbetterfromscratch.com/mississippi-mud-brownies/)
 
 My grandmas mississippi mud recipe is a lot different. This one has marshmallows?
+
+## [Chicken Parmesan](https://www.allrecipes.com/recipe/223042/chicken-parmesan/)
+[Archived Link](https://web.archive.org/web/20241008220545/https://www.allrecipes.com/recipe/223042/chicken-parmesan/)
+
+An easy to follow recipe for Chicken Parmesan!
