@@ -1,6 +1,6 @@
 # Learning to Code
 
-## [Learn Git Branching](https://learngitbranching.js.org/)
-[Archived Link](https://web.archive.org/web/20241009005453/https://learngitbranching.js.org/)
+## [Learn Git Branching](https://man7.org/linux/man-pages/)
+[Archived Link](https://web.archive.org/web/20241129153212/https://man7.org/linux/man-pages/)
 
-A browser game for learning and visualizing git commands.
+Linux manual.
